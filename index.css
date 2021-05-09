@@ -1,0 +1,9 @@
+
+.container{
+    background-image: url("cool-background.svg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    padding:1rem;
+    width:600px;
+    height:500px;
+  }
